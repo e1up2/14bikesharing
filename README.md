@@ -3,6 +3,10 @@
 
 With this project, I tasked with analyzing Citi Bike data in order to make visualizations for a board of investors thinking about bringing Citi Bikes to the city of Des Moines Iowa. 
 
+Below I have a link to my Tableau story so that you can get a better picture of how I visualized this data.
+
+[link to story](https://public.tableau.com/shared/2PKJ45GZD?:display_count=n&:origin=viz_share_link)
+
 ## Purpose
 The complete purpose of this project was to make creative visualizations so that the data in a csv file was digestible to people who've never written a line of code, like our investors. The visualizations i created are as follows:
 
