@@ -1,9 +1,14 @@
-# 14bikesharing
-# Overview of Project
-
-With this project, I tasked with analyzing Citi Bike data in order to make visualizations for a board of investors thinking about bringing Citi Bikes to the city of Des Moines Iowa. 
-
-Below I have a link to my Tableau story so that you can get a better picture of how I visualized this data.
+# bikesharing
+## Overview
+The objective of the bikesharing analysis is to determine whether a bikesharing venture will be successful. We would create tableau visualization from  New York bikesharing data to amswer questions such as:
+- how many bike trips were recorded during the month of August?
+- what is the number of short-term customers and annual subscribers?
+- what is the demographics of bike riders in New York?
+- what are the top starting locations and the top ending locations?
+- what are the peak hours?
+- what are the typical checkout times?
+- what is the typical bike utilization?
+Answers to these types of questions will help determine if a similar bike sharing business will be sucessful in Des moines IOWA.
 
 [link to story](https://public.tableau.com/shared/2PKJ45GZD?:display_count=n&:origin=viz_share_link)
 
@@ -19,7 +24,6 @@ The complete purpose of this project was to make creative visualizations so that
 # Results
 Through creating the vizulizations listed above I was able to draw clear trends and conclusions
 
-## Analysis
 - Checkout Times for Users: I was able to conclude that an overwhelming amount of trips last less than 20 minutes
 
 ![...](checkout_times_for_users.png)
@@ -42,5 +46,12 @@ Through creating the vizulizations listed above I was able to draw clear trends 
 
 
 ## Summary
+The analysis of the New York bike sharing data provided the follwoing insights:
+- the month of August is a good month for biking recording 2,344,224 trips
+- 81.07% of bike riders are annual customers and 18.93% are short-term customers.
+- the ratio of male bike riders to female bike riders is 3:1
+- Thursdays between 5pm and 8pm is the peak period for the month of August
 
-Based on the data set, we were able to see clear trends that can help the investors make predictions and decisions. When in Iowa, Citi Bikes marketing should be more geared towards a male audience, as many bikes as possible should be available during commute hours. The investors could even take a look at our top starting and ending locations to see what type of places most likely need to have bikes around at certain times. I believe that I could've furthered my analysys by what ages of users were most popular in order to see what age group the company should be advertising to. I also believe I could've made more vizualizations concerning bike matainence.
+##### Additional Analysis
+1. To provide further insight, we may perform the same set of analyses for multiple months of the year. This type of analysis can help determine any pattern or trend to the demand for bike-sharing services for the year
+2. Another visualization we may perform is determining how many start stations are also end stations for the same trip. Knowing that a bike trip started and ended in the same location can help illuminate questions around the number of stations required for a specified geographic area.
